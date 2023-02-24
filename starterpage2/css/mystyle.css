@@ -1,0 +1,33 @@
+body { font-family:'Josefin Sans'}
+
+p {color:hotpink; line-height: 100%; text-align: left; font-size: 20px; font-family:'Josefin Sans' }
+
+h2 {color:hotpink; font-weight: bold; font-family:'Josefin Sans'}
+
+
+h1 {color:hotpink ; font-family: 'Josefin Sans'; font-size: 50px}
+
+ul {color:deeppink;}
+
+ol{color:deeppink;}
+
+.headerbar{width:100%;
+background-color: lightpink;
+color:hotpink;
+padding: 20px 0 20px 50px;
+font-size: 2em}
+
+.videoheaderbar{width: 100%;
+background-color: rebeccapurple;
+color:mediumpurple;
+padding: 20px 0 20px 50px;
+font-size: 2em}
+
+
+.redparagraph {color: red;}
+
+.
+
+
+.videoh1{color: mediumpurple;}
+
