@@ -1,0 +1,25 @@
+.headerbar{width:100%;
+background-color: lightgrey;
+color:black;
+padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+font-size: 2.50em}
+
+.sidebar{width:100%;
+background-color: lightgrey;
+color:black;
+padding: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;}
+
+
+
+h1{font-family: 'Merriweather', serif;}
+
+h3{font-family: 'Merriweather', serif;}
+
+body{font-family: 'Merriweather', serif; font-size: 1.05em}
+
