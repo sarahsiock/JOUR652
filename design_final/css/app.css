@@ -1,0 +1,53 @@
+.headerbar{width:100%;
+background-color: #FFD520;
+color:black;
+padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+font-size: 3.20em}
+
+.sidebar{width:100%;
+background-color: #FFD520;
+color:black;
+padding: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;}
+
+ 
+.pull-quote {
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  font-style: normal;
+  font-size: 1.125rem;
+  max-width: 50%;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  color: #1779ba;
+  float: right;
+  margin: 10px 0 0 20px;
+  background: linear-gradient(#767676, #E03A3E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.pull-quote:after {
+  content: '';
+}
+
+
+
+
+
+
+h1{font-family: 'Playfair Display', serif;}
+
+h2{font-family: 'Playfair Display', serif;}
+
+h3{font-family: 'Playfair Display', serif;}
+
+h5{font-family: 'Playfair Display', serif;}
+
+body{font-family: 'Playfair Display', serif;}
+
